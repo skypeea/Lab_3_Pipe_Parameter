@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\source\RevitApps\Lab_3_Pipe_Parameter.dll"</Assembly>
+		<AddInId>091A31C7-73B6-4BEF-B9EF-05133B55416C</AddInId>
+		<FullClassName>Lab_3_Pipe_Parameter.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Длина с запасом</Text>
+	</AddIn>
+</RevitAddIns>
